@@ -5,6 +5,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.Random;
 
+
 public class Guess extends JFrame implements ActionListener {
 
     final private JTextField inputNumber;
